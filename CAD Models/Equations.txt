@@ -1,0 +1,4 @@
+﻿"Tolerance" = 0.25mm
+"Pocket_Head_M5"= 8mm
+"Pocket_Head_M4" = 7mm
+"Pocket_Nut_M4" = 7mm
