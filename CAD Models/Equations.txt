@@ -7,3 +7,4 @@
 "Pocket_Nut_M3"= 5.5mm
 "Pocket_Head_M3"= 5.5mm
 "Pocket_Head_M2.5" = 4.7mm
+"Pocket_Head_M6" = 10mm
